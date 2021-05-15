@@ -15,7 +15,7 @@ Libraries used : Firebase Authentication and Firebase Cloudstore
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/vaibhavjain30699/super_chat.git
 ```
 
 **Step 2:**
